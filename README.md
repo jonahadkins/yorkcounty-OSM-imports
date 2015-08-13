@@ -5,7 +5,7 @@ York County, Virginia GIS department has provided building footprints, address p
 ```"..York County’s FOIA policy still allows our department to charge for GIS data, however we have decided to provide some GIS data to not for profit organizations.."```  
 
 ###Building Footprints  
-Buildings will be simplified to ```0.025``` using common geometry simplification tools. Attributes from the ```PTYPE2``` column will be mapped to OSM tags:  
+Buildings will be simplified to ```0.25``` using common geometry simplification tools. Attributes from the ```PTYPE2``` column will be mapped to OSM tags:  
 
 | Code  | Type | Count |  Note |
 | ------------- | ------------- |------------- |------------- |
