@@ -9,5 +9,7 @@
 9. join attributes by location (addr > bldg)
 10. remove address numbers attributes where addr point count != "1" (leave street names)
 11. delete unnecessary columns
-12. calculate building type codes to text (readme)
-13. calculate address type codes to text (readme)
+12. calculate building [ptype2] codes to text -> new [ptype] column (readme)
+13. calculate address [type] codes to text -> new [ptype] column (readme)
+14. calculate street prefix abbr to long-from
+15. calculate road type abbr to long-form
