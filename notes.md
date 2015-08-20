@@ -12,4 +12,7 @@
 12. calculate building [ptype2] codes to text -> new [ptype] column (readme)
 13. calculate address [type] codes to text -> new [ptype] column (readme)
 14. calculate street prefix abbr to long-from
-15. calculate road type abbr to long-form
+15. calculate road type abbr to long-form (usps suffixes)
+16. calculate city = york county
+17. calcualte state = virginia
+18. spatial join with zipcodes
