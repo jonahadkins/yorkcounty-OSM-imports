@@ -13,6 +13,9 @@
 13. calculate address [type] codes to text -> new [ptype] column (readme)
 14. calculate street prefix abbr to long-from
 15. calculate road type abbr to long-form (usps suffixes)
-16. calculate city = york county
-17. calcualte state = virginia
-18. spatial join with zipcodes
+16. concatenate street names
+17. calculate city = york county
+18. calcualte state = virginia
+19. spatial join with zipcodes
+20. join ```osm_schema.shp``` fields & calculate
+21. final column clean-up
