@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-1139353' visible='true' lat='30.75819838401' lon='108.62248063059' />
+  <node id='-1139352' visible='true' lat='30.75827849764' lon='108.62260780958' />
+  <node id='-1139351' visible='true' lat='30.75853573745' lon='108.62239053706' />
+  <node id='-1139350' visible='true' lat='30.75845562404' lon='108.62226335807' />
+  <node id='-1139349' visible='true' lat='30.76325552192' lon='108.61796531619' />
+  <node id='-1139348' visible='true' lat='30.76311591862' lon='108.61780677103' />
+  <node id='-1139347' visible='true' lat='30.76291995649' lon='108.6180381471' />
+  <node id='-1139346' visible='true' lat='30.76305955361' lon='108.61819669227' />
+  <node id='-1139345' visible='true' lat='30.75952136874' lon='108.62073509171' />
+  <node id='-1139344' visible='true' lat='30.75967639597' lon='108.62096069611' />
+  <node id='-1139343' visible='true' lat='30.7597901708' lon='108.6208558702' />
+  <node id='-1139342' visible='true' lat='30.75963513729' lon='108.6206302658' />
+  <node id='-1139341' visible='true' lat='30.75963184668' lon='108.62063329761' />
+  <node id='-1139340' visible='true' lat='30.74625114913' lon='108.62230955206' />
+  <node id='-1139339' visible='true' lat='30.74600822535' lon='108.62218208674' />
+  <node id='-1139338' visible='true' lat='30.74595365902' lon='108.62232148281' />
+  <node id='-1139337' visible='true' lat='30.74619658456' lon='108.62244894814' />
+  <node id='-1139336' visible='true' lat='30.74871216845' lon='108.62306303834' />
+  <node id='-1139335' visible='true' lat='30.74870840547' lon='108.62323013995' />
+  <node id='-1139334' visible='true' lat='30.7487606216' lon='108.62323171949' />
+  <node id='-1139333' visible='true' lat='30.74876011081' lon='108.62325452173' />
+  <node id='-1139332' visible='true' lat='30.74893391219' lon='108.62325303202' />
+  <node id='-1139331' visible='true' lat='30.74893274192' lon='108.62306970833' />
+  <way id='-1139330' visible='true'>
+    <nd ref='-1139350' />
+    <nd ref='-1139351' />
+    <nd ref='-1139352' />
+    <nd ref='-1139353' />
+    <nd ref='-1139350' />
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:postcode' v='23662' />
+    <tag k='addr:state' v='Virginia' />
+    <tag k='building' v='shed' />
+  </way>
+  <way id='-1139329' visible='true'>
+    <nd ref='-1139346' />
+    <nd ref='-1139347' />
+    <nd ref='-1139348' />
+    <nd ref='-1139349' />
+    <nd ref='-1139346' />
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:postcode' v='23662' />
+    <tag k='addr:state' v='Virginia' />
+    <tag k='building' v='shed' />
+  </way>
+  <way id='-1139328' visible='true'>
+    <nd ref='-1139341' />
+    <nd ref='-1139342' />
+    <nd ref='-1139343' />
+    <nd ref='-1139344' />
+    <nd ref='-1139345' />
+    <nd ref='-1139341' />
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:postcode' v='23662' />
+    <tag k='addr:state' v='Virginia' />
+    <tag k='building' v='shed' />
+  </way>
+  <way id='-1139327' visible='true'>
+    <nd ref='-1139337' />
+    <nd ref='-1139338' />
+    <nd ref='-1139339' />
+    <nd ref='-1139340' />
+    <nd ref='-1139337' />
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:postcode' v='23662' />
+    <tag k='addr:state' v='Virginia' />
+    <tag k='building' v='shed' />
+  </way>
+  <way id='-1139326' visible='true'>
+    <nd ref='-1139331' />
+    <nd ref='-1139332' />
+    <nd ref='-1139333' />
+    <nd ref='-1139334' />
+    <nd ref='-1139335' />
+    <nd ref='-1139336' />
+    <nd ref='-1139331' />
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:postcode' v='23662' />
+    <tag k='addr:state' v='Virginia' />
+    <tag k='building' v='shed' />
+  </way>
+</osm>
