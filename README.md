@@ -10,12 +10,12 @@ York County, Virginia GIS department has provided building footprints, address p
 
 York County Building data was imported by Census Block Group chunks during the week of September 7th, following OSM import guidelines and community feedback.
 
-Imports were done through the dedicated user account ![jonahadkins_yorkcounty_import](https://www.openstreetmap.org/user/jonahadkins_yorkcounty_import/history#map=11/37.2265/-76.5706&layers=D)  
+Imports were done through the dedicated user account [jonahadkins_yorkcounty_import](https://www.openstreetmap.org/user/jonahadkins_yorkcounty_import/history#map=11/37.2265/-76.5706&layers=D)  
 
-** 25,348 building footprints imported
-  ** 19,246 houses
-  ** 1,131 commercial/retail structures
-** 17,486 addresses attached to buildings (68% of all structures imported have addresses!)
-** 817 Business Names (72& of all commercial/retail structures!)
-** 189 Amenities Tagged
+** 25,348 building footprints imported  
+   ** 19,246 houses  
+   ** 1,131 commercial/retail structures  
+** 17,486 addresses attached to buildings (68% of all structures imported have addresses!)  
+** 817 Business Names (72& of all commercial/retail structures!)  
+** 189 Amenities Tagged  
 
