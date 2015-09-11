@@ -12,6 +12,8 @@ York County Building data was imported by Census Block Group chunks during the w
 
 Imports were done through the dedicated user account [jonahadkins_yorkcounty_import](https://www.openstreetmap.org/user/jonahadkins_yorkcounty_import/history#map=11/37.2265/-76.5706&layers=D)  
 
+![](https://raw.githubusercontent.com/jonahadkins/yorkcounty-OSM-imports/master/yc_post_import.png)
+
 * 25,348 building footprints imported  
    * 19,246 houses  
    * 1,131 commercial/retail structures  
